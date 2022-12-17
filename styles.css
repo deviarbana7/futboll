@@ -1,4 +1,33 @@
-html{
-    background-color: #2b2d42;
-    color: #edf2f4;
+html {
+  background-color: #2b2d42;
+  color: #edf2f4;
+}
+nav ul {
+  float: right;
+  font-family: "Courier New", Courier, monospace;
+  margin-right: 20px;
+}
+label.Logo {
+  font-family: "Courier New", Courier, monospace;
+  color: #edf2f4;
+  font-size: 35px;
+  line-height: 80px;
+  padding: 0 100px;
+  font-weight: bold;
+}
+nav {
+  background-color: #2b2d42;
+  height: 80px;
+  width: 100%;
+}
+nav ul li {
+  display: inline-block;
+  line-height: 70px;
+  margin: 0 5px;
+}
+nav ul li a {
+  font-size: 17px;
+  text-transform: uppercase;
+  color: #edf2f4;
+  text-decoration: none;
 }
