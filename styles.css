@@ -30,3 +30,6 @@ nav ul li a:hover {
   color: bisque;
   transition: 0.3s;
 }
+h2 {
+  text-align: center;
+}
