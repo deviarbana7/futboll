@@ -26,4 +26,7 @@ nav ul li a {
   font-weight: bold;
   font-family: "Courier New", Courier, monospace;
 }
+nav ul li a:hover {
+  color: bisque;
+  transition: 0.3s;
 }
